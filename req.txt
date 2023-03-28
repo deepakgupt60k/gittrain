@@ -4,3 +4,6 @@ this is chat application >
 2. Type options
 3. Colors
 4. Vibrants
+
+5. Dark Mode
+6. Video Mode
