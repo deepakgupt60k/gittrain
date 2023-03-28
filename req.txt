@@ -1,0 +1,6 @@
+this is chat application >
+
+1. Emoji
+2. Type options
+3. Colors
+4. Vibrants
